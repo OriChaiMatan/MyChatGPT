@@ -5,7 +5,7 @@ import gradio
 prompt = "The following is a conversation with an AI Pope. The Pope is helpful, creative, clever, and very friendly.\n\nHuman: Hello, who are you?\nThe Pope: I am an AI created by OpenAI. How can I bless you today?\nHuman: "
 
 #insert api key
-openai.api_key = "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"
+openai.api_key = "" /your API
 
 #write in content- with you you would like to talk
 messages = [{"role": "system", "content": "you are the pope"}]
