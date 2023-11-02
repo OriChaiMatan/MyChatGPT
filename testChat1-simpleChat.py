@@ -2,7 +2,7 @@ import openai
 
 #insert api key
 
-openai.api_key = "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"
+openai.api_key = "" //your API
 
 #write your answer in: "content"
 
